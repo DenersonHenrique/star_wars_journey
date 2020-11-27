@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  environmentName: 'dev',
+  appUrl: 'https://swapi.dev/api/',
 };
